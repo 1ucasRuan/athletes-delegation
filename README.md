@@ -1,2 +1,2 @@
 # Delegacao_atletas
-Cadastro de atletas, com interface grafica
+Sistema de cadastro de atletas, com interface grafica e Orientação a Objetos em Java.
